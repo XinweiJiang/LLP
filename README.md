@@ -1,3 +1,7 @@
+# LLP
+Code for the paper 'Local Label Propagation for Effective and Efficient Hyperspectral Images Classification' submitted to IEEE Geoscience and Remote Sensing Letters.
+
+
 # Local-Label-Propagation
 - The use of local label propagation can drastically reduce the construction space cost of the global graph, while the use of patches for label passing can quickly obtain classification results without the need for a training process.
 
