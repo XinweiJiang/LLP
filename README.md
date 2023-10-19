@@ -1,9 +1,5 @@
-# LLP
-Code for the paper 'Local Label Propagation for Effective and Efficient Hyperspectral Images Classification' submitted to IEEE Geoscience and Remote Sensing Letters.
-
-
 # Local-Label-Propagation
-- The use of local label propagation can drastically reduce the construction space cost of the global graph, while the use of patches for label passing can quickly obtain classification results without the need for a training process.
+Code for the paper 'Local Label Propagation for Effective and Efficient Hyperspectral Images Classification' submitted to IEEE Geoscience and Remote Sensing Letters.
 
 ## Parameter:
 The datasets name, number of training samples, filter radius, and sigma for spatial kernel.
@@ -13,7 +9,7 @@ The datasets name, number of training samples, filter radius, and sigma for spat
 - sigma = 2.0                      # Indianpines:2.0  PaviaU:10.0
 
 ## Prerequisites:
-Use Matlab R2021b
+Matlab R2021b
 
 ## Usage:
 - local_label_propagation('Indianpines',30,1,2.0);
